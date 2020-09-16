@@ -6,4 +6,4 @@ ADO-VSTS-Project-Migration-Tool
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Gatsby Starter Portfolio: Cara is released under the MIT license." />
   </a>
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" /></br>
-Data Migration Tool within Azure Devops (formerly known as VSTS)
+Data Migration Tool within Azure Devops (formerly known as VSTS).
